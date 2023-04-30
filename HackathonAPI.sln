@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackathonAPI", "HackathonAPI\HackathonAPI.csproj", "{2C1B4CFA-A9DA-430C-80B4-A4EF6D676C42}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DevpostDB", "DevpostDB\DevpostDB.sqlproj", "{4EDA8755-9709-413F-AB2F-0B66E28893CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C1B4CFA-A9DA-430C-80B4-A4EF6D676C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1B4CFA-A9DA-430C-80B4-A4EF6D676C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1B4CFA-A9DA-430C-80B4-A4EF6D676C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1B4CFA-A9DA-430C-80B4-A4EF6D676C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EDA8755-9709-413F-AB2F-0B66E28893CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDA8755-9709-413F-AB2F-0B66E28893CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDA8755-9709-413F-AB2F-0B66E28893CA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4EDA8755-9709-413F-AB2F-0B66E28893CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDA8755-9709-413F-AB2F-0B66E28893CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EDA8755-9709-413F-AB2F-0B66E28893CA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51F64FD7-CCDF-4113-8D9B-20E0413D15D8}
+	EndGlobalSection
+EndGlobal
