@@ -1,8 +1,8 @@
 ﻿CREATE PROCEDURE [dbo].[spHackathons_Insert]
 	@HackathonName nvarchar(255),
 	@HackathonLocation nvarchar(255),
-	@HackathonStartDate date,
-	@HackathonEndDate date,
+	@HackathonStartDate nvarchar(50),
+	@HackathonEndDate nvarchar(50),
 	@HackathonURL nvarchar(255)
 	
 AS

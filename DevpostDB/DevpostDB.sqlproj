@@ -71,4 +71,7 @@
   <ItemGroup>
     <PostDeploy Include="Script.PostDeployment.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="DevpostDB.publish.xml" />
+  </ItemGroup>
 </Project>

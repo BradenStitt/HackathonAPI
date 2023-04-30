@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackathonAPI", "HackathonAP
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DevpostDB", "DevpostDB\DevpostDB.sqlproj", "{4EDA8755-9709-413F-AB2F-0B66E28893CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{3F4FD18B-7943-406C-90EA-C53601AC4C0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{4EDA8755-9709-413F-AB2F-0B66E28893CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EDA8755-9709-413F-AB2F-0B66E28893CA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4EDA8755-9709-413F-AB2F-0B66E28893CA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3F4FD18B-7943-406C-90EA-C53601AC4C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4FD18B-7943-406C-90EA-C53601AC4C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4FD18B-7943-406C-90EA-C53601AC4C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4FD18B-7943-406C-90EA-C53601AC4C0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
