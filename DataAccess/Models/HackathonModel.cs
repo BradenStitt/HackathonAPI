@@ -13,7 +13,7 @@ internal class HackathonModel
     public string HackathonLocation { get; set; }
     public string HackathonStartDate { get; set; }
     public string HackathonEndDate { get; set; }
-    public string Url { get; set; }
+    public string URL { get; set; }
 
 
 }
