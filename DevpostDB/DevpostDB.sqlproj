@@ -68,4 +68,7 @@
     <Build Include="dbo\StoredProcedures\spHackathons_Insert.sql" />
     <Build Include="dbo\StoredProcedures\spHackathon_Update.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="Script.PostDeployment.sql" />
+  </ItemGroup>
 </Project>
