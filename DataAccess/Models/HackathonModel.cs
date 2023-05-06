@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Models;
 
-internal class HackathonModel
+public class HackathonModel
 {
     public int Id { get; set; }
     public string HackathonName { get; set; }
